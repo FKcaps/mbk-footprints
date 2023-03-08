@@ -1,4 +1,5 @@
 (module Choc-1.75u (layer F.Cu) (tedit 603B3EA1)
+  (attr smd)
   (fp_text reference 1.75u (at 0 -7.14375 180) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.2)))
   )
